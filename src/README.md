@@ -1,7 +1,8 @@
 # Stack Overflown
 
 Organize the falling blocks into the current debug 
-## How to Develop
+
+# How to Develop
 
 - `index.html` - the game container for playing
 - `index.js` - the primary game logic
